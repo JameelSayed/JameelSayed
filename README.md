@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JameelSayed
-- 👀 I’m interested in wed development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Front end web dev
 - 💞️ I’m looking to collaborate on web projects if help is needed
 - 📫 How to reach me ...
